@@ -1,5 +1,5 @@
 
-The aim of the assignments is to create "parallel versions" (student/*par.c*) of the given sequential solutions (*seq.c*).
+The aim of the assignments is to create "parallel versions" (student/\*par.c\*) of the given sequential solutions (\*seq.c\*).
 
 ### Assignment 1-2: Posix threads
 
