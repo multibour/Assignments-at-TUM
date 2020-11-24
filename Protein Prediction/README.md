@@ -1,3 +1,1 @@
-# Work in progress...
-
-Currently only the preprocessing assignments can be uploaded. The Neural Network will be uploaded once finished at the end of the semester. The test files are not written by the students.
+# Protein Prediction
