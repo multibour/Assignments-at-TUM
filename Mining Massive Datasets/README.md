@@ -1,2 +1,1 @@
-# Work in progress
-More tasks to come!
+# Assignments of the course Mining Massive Datasets
